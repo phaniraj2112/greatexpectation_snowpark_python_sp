@@ -1,7 +1,7 @@
 snowflake_conn_prop_local = {
-   "account": "ud06915.west-us-2.azure",
+   "account": "20fj335.west-us-2.azure",
    "user": "profileuser",
-   "password": "Somejunkpwd12345",
+   "password": "fsdfsdffd",
    "database": "NYCTAXI",
    "schema": "TAXI",
    "warehouse": "CLUSTER1",
