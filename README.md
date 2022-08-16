@@ -1,4 +1,4 @@
-# Great Expectation With Snowflake Python Stored Procedures
+# Great Expectation With Snowpark Python Stored Procedures
 
 ### Introduction
 
