@@ -24,6 +24,6 @@ There are two versions to demonstrate the implementation:
 
 
 ### More
-This framework can be extended by passing in multiple batch requests at run time as the checkpoint runs the expectation guite against the batch that you can pass at run time.
+This framework can be extended by passing in multiple batch requests at run time as the checkpoint runs the expectation suite against the batch that you can pass at run time.
 
-You can create multiple dataframe and run the expectations against each of this DataFrame also using different expectation suites that you have created based on the data and business requirements.
+You can create multiple DataFrames and run the expectations against each of this DataFrame also using different expectation suites that you might have created based on the data and business requirements.
