@@ -25,7 +25,8 @@ def createExpectations(context,suitename,local_batch_request,pandasdataframe):
         batch_request=local_batch_request, expectation_suite_name=suitename
     )
     
-    # Creating new validations based on data knowledge 
+    # Creating new validations based on data knowledge. 
+    # Add additional expectations as per the business needs 
     validator.expect_column_values_to_be_in_set("TAXI_TYPE",["yellow","green"])
     validator.expect_column_min_to_be_between("VENDOR_ID",1,10)
     validator.expect_column_mean_to_be_between("VENDOR_ID",2,14)
