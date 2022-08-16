@@ -14,6 +14,8 @@ In this demonstation you will learn how to use [Great Expecations](https://docs.
  - Validating the expectations on the data .
  - Saving the validation results in a Snowflake table.
 
+ All of the above steps will be performed inside a Snowpark Python Stored procedure.
+
 There are two versions to demonstrate the implementation:
 
 - Single jupyter notebook which has the entire code to create the stored procedure. You can run <b>*GEwithPythonSP_SimpleVersion.ipynb*</b> notebook by making changes to the Snowflake configuration ,table details used in the code along with the expectations specific to your requirements. In this demo we have created only three expectations to demonstrate the implementation.
